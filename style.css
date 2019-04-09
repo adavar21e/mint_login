@@ -1,0 +1,171 @@
+body {
+    background-color: #ECEEF1;
+}
+
+header {
+    width: auto;
+    height: 175px;
+    text-align: center;
+}
+
+section {
+    background: white;
+    width: 400px;
+    height: 695px;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid slategrey;
+}
+.top-nav {
+    display: inline;
+    width: 295px;
+    height: 36px;
+}
+
+.query {
+    width: 171px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    right: 145px;
+    top: -1px;
+    line-height: 17px;
+}
+
+.sign-in {
+    width: 104px;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+
+.login {
+    background: #0077c5;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #4c4c4c;
+}
+
+.create {
+    text-align: center;
+    font-size: 14px;
+    color: #4c4c4c;
+}
+
+form {
+    display: block;
+    width: 325px;
+    padding-left: 35px;
+    padding-top: 15px;
+}
+
+.email {
+    padding-bottom: 15px;
+}
+
+.phone {
+    padding-top: 15px;
+}
+
+.password {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.button {
+    padding-top: 20px;
+}
+
+label {
+    text-align: left;
+    color: #404040;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 6px;
+}
+
+.call-warning {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #444;
+}
+
+input  {
+    border-radius: 3px;
+    border: 1px solid lightgray;
+    height: 30px;
+    width: 100%;
+}
+
+.submit {
+    background: #0077c5;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    height: 44px;
+    padding: 6px;
+}
+
+.terms {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #757575;
+    font-size: 12px;
+    padding-top: 38px;
+    padding-bottom: 37px;
+    line-height: 20px;
+}
+
+.recaptcha {
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8d9096;
+    background: #ECEEF1;
+    padding: 10px;
+}
+
+footer {
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #505050;
+    font-size: 12px;
+}
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #505050;
+    font-size: 12px;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+}
+
+img {
+    width: 118px;
+    height: 35px;
+}
+
+li {
+    display: inline;
+    list-style-type: disc;
+    padding: 5px;
+    color: #505050;
+}
